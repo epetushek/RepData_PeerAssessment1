@@ -2,8 +2,8 @@
 title: "RepProject1"
 author: "Erich Petushek"
 date: "8/17/2017"
-#output: github_document
-output: html_document
+output: github_document
+#output: html_document
 keep_md: TRUE  
 ---
 
